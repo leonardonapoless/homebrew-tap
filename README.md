@@ -13,4 +13,4 @@ brew install tippen
 
 | Formula | Description |
 |---------|-------------|
-| tippen  | Tiny text expander for macOS |
+| tippen  | tiny text expander for macOS |

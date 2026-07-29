@@ -1,8 +1,8 @@
 class Tippen < Formula
   desc "Tiny text expander for macOS"
-  homepage "https://github.com/leonardonapoless/Tippen"
-  url "https://github.com/leonardonapoless/Tippen/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "PLACEHOLDER_RUN_SHASUM_ON_THE_RELEASE_TARBALL"
+  homepage "https://github.com/leonardonapoless/tippen"
+  url "https://github.com/leonardonapoless/tippen/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "e7d86e15d3f1159f85ce28971273aa875aea87ff95a80720224375129aa7d3e6"
 
   depends_on :macos
 
