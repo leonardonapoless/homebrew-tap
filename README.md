@@ -6,6 +6,7 @@ Personal Homebrew tap.
 
 ```
 brew tap leonardonapoless/tap
+brew trust leonardonapoless/tap
 brew install tippen
 ```
 
